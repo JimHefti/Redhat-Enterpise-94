@@ -5,9 +5,21 @@ Red hat Enterprise Linux ist ein Bertiebssystem. Es basiert auf Linux und ist sp
 
 ## Was kann man mit Red Hat machen
 
-Serverbetrieb: Red Hat Enterprise ist gut für Serverumgebungen, von kleinen Firmenservern bis hin zu grossen Rechenzentern.
+Serververwaltung: Betrieb von Web-, Datenbank-, und Applikationsservern.
 
-Cloud-Computing: Red Hat Enterprise kann als Grundlage für private, öffentliche und hybrid Cloudinfrastrukturen verwendet werden.
+Cloud-Dienste: Einsatz und Verwaltung von Cloud-Infrastrukturen.
+
+Containerisierung: Entwicklung und Management von containerisierten Anwendungen mit Tools wie Kubernetes und Docker.
+
+Virtualisierung: Ausführung mehrerer Betriebssysteme auf einem einzelnen physischen Server.
+
+Entwicklungsumgebung: Bereitstellung einer stabilen Plattform für die Softwareentwicklung.
+
+Netzwerkdienste: Verwaltung von Netzwerkdiensten wie DHCP, DNS und anderen.
+
+Sicherheitsmanagement: Implementierung fortschrittlicher Sicherheitsmechanismen und Compliance-Management.
+
+Systemautomatisierung: Automatisierung von Routineaufgaben zur Systemverwaltung und Konfiguration.
 
 
 
