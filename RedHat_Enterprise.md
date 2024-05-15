@@ -3,7 +3,7 @@
 ## Was ist Red Hat Enterprise 
 Red hat Enterprise Linux ist ein Bertiebssystem. Es basiert auf Linux und ist speziell für den Einsatz in Unternehmensumgebungen gemacht.
 
-## Was kann man mit Red Hat machen
+## Was kann man mit Red Hat Enterprise machen
 
 Serververwaltung: Betrieb von Web-, Datenbank-, und Applikationsservern.
 
